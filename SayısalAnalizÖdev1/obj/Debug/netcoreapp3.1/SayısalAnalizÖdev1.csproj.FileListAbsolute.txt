@@ -1,0 +1,35 @@
+C:\Users\burak\source\repos\SayısalAnalizÖdev1\SayısalAnalizÖdev1\bin\Debug\netcoreapp3.1\SayısalAnalizÖdev1.exe
+C:\Users\burak\source\repos\SayısalAnalizÖdev1\SayısalAnalizÖdev1\bin\Debug\netcoreapp3.1\SayısalAnalizÖdev1.deps.json
+C:\Users\burak\source\repos\SayısalAnalizÖdev1\SayısalAnalizÖdev1\bin\Debug\netcoreapp3.1\SayısalAnalizÖdev1.runtimeconfig.json
+C:\Users\burak\source\repos\SayısalAnalizÖdev1\SayısalAnalizÖdev1\bin\Debug\netcoreapp3.1\SayısalAnalizÖdev1.runtimeconfig.dev.json
+C:\Users\burak\source\repos\SayısalAnalizÖdev1\SayısalAnalizÖdev1\bin\Debug\netcoreapp3.1\SayısalAnalizÖdev1.dll
+C:\Users\burak\source\repos\SayısalAnalizÖdev1\SayısalAnalizÖdev1\bin\Debug\netcoreapp3.1\SayısalAnalizÖdev1.pdb
+C:\Users\burak\source\repos\SayısalAnalizÖdev1\SayısalAnalizÖdev1\obj\Debug\netcoreapp3.1\SayısalAnalizÖdev1.csprojAssemblyReference.cache
+C:\Users\burak\source\repos\SayısalAnalizÖdev1\SayısalAnalizÖdev1\obj\Debug\netcoreapp3.1\SayısalAnalizÖdev1.AssemblyInfoInputs.cache
+C:\Users\burak\source\repos\SayısalAnalizÖdev1\SayısalAnalizÖdev1\obj\Debug\netcoreapp3.1\SayısalAnalizÖdev1.AssemblyInfo.cs
+C:\Users\burak\source\repos\SayısalAnalizÖdev1\SayısalAnalizÖdev1\obj\Debug\netcoreapp3.1\SayısalAnalizÖdev1.dll
+C:\Users\burak\source\repos\SayısalAnalizÖdev1\SayısalAnalizÖdev1\obj\Debug\netcoreapp3.1\SayısalAnalizÖdev1.pdb
+C:\Users\burak\Desktop\18011706 Sayısal Analiz Ödev\18011706 Proje Dosyası\SayısalAnalizÖdev1\bin\Debug\netcoreapp3.1\SayısalAnalizÖdev1.exe
+C:\Users\burak\Desktop\18011706 Sayısal Analiz Ödev\18011706 Proje Dosyası\SayısalAnalizÖdev1\bin\Debug\netcoreapp3.1\SayısalAnalizÖdev1.deps.json
+C:\Users\burak\Desktop\18011706 Sayısal Analiz Ödev\18011706 Proje Dosyası\SayısalAnalizÖdev1\bin\Debug\netcoreapp3.1\SayısalAnalizÖdev1.runtimeconfig.json
+C:\Users\burak\Desktop\18011706 Sayısal Analiz Ödev\18011706 Proje Dosyası\SayısalAnalizÖdev1\bin\Debug\netcoreapp3.1\SayısalAnalizÖdev1.runtimeconfig.dev.json
+C:\Users\burak\Desktop\18011706 Sayısal Analiz Ödev\18011706 Proje Dosyası\SayısalAnalizÖdev1\bin\Debug\netcoreapp3.1\SayısalAnalizÖdev1.dll
+C:\Users\burak\Desktop\18011706 Sayısal Analiz Ödev\18011706 Proje Dosyası\SayısalAnalizÖdev1\bin\Debug\netcoreapp3.1\SayısalAnalizÖdev1.pdb
+C:\Users\burak\Desktop\18011706 Sayısal Analiz Ödev\18011706 Proje Dosyası\SayısalAnalizÖdev1\obj\Debug\netcoreapp3.1\SayısalAnalizÖdev1.csprojAssemblyReference.cache
+C:\Users\burak\Desktop\18011706 Sayısal Analiz Ödev\18011706 Proje Dosyası\SayısalAnalizÖdev1\obj\Debug\netcoreapp3.1\SayısalAnalizÖdev1.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\18011706 Sayısal Analiz Ödev\18011706 Proje Dosyası\SayısalAnalizÖdev1\obj\Debug\netcoreapp3.1\SayısalAnalizÖdev1.AssemblyInfo.cs
+C:\Users\burak\Desktop\18011706 Sayısal Analiz Ödev\18011706 Proje Dosyası\SayısalAnalizÖdev1\obj\Debug\netcoreapp3.1\SayısalAnalizÖdev1.dll
+C:\Users\burak\Desktop\18011706 Sayısal Analiz Ödev\18011706 Proje Dosyası\SayısalAnalizÖdev1\obj\Debug\netcoreapp3.1\SayısalAnalizÖdev1.pdb
+C:\Users\user\Desktop\okul\2-2\Sayısal Analiz\Ödev\Grafik Yöntem\18011706 Proje Dosyası\SayısalAnalizÖdev1\bin\Debug\netcoreapp3.1\SayısalAnalizÖdev1.exe
+C:\Users\user\Desktop\okul\2-2\Sayısal Analiz\Ödev\Grafik Yöntem\18011706 Proje Dosyası\SayısalAnalizÖdev1\bin\Debug\netcoreapp3.1\SayısalAnalizÖdev1.deps.json
+C:\Users\user\Desktop\okul\2-2\Sayısal Analiz\Ödev\Grafik Yöntem\18011706 Proje Dosyası\SayısalAnalizÖdev1\bin\Debug\netcoreapp3.1\SayısalAnalizÖdev1.runtimeconfig.json
+C:\Users\user\Desktop\okul\2-2\Sayısal Analiz\Ödev\Grafik Yöntem\18011706 Proje Dosyası\SayısalAnalizÖdev1\bin\Debug\netcoreapp3.1\SayısalAnalizÖdev1.runtimeconfig.dev.json
+C:\Users\user\Desktop\okul\2-2\Sayısal Analiz\Ödev\Grafik Yöntem\18011706 Proje Dosyası\SayısalAnalizÖdev1\bin\Debug\netcoreapp3.1\SayısalAnalizÖdev1.dll
+C:\Users\user\Desktop\okul\2-2\Sayısal Analiz\Ödev\Grafik Yöntem\18011706 Proje Dosyası\SayısalAnalizÖdev1\bin\Debug\netcoreapp3.1\SayısalAnalizÖdev1.pdb
+C:\Users\user\Desktop\okul\2-2\Sayısal Analiz\Ödev\Grafik Yöntem\18011706 Proje Dosyası\SayısalAnalizÖdev1\obj\Debug\netcoreapp3.1\SayısalAnalizÖdev1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\okul\2-2\Sayısal Analiz\Ödev\Grafik Yöntem\18011706 Proje Dosyası\SayısalAnalizÖdev1\obj\Debug\netcoreapp3.1\SayısalAnalizÖdev1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\okul\2-2\Sayısal Analiz\Ödev\Grafik Yöntem\18011706 Proje Dosyası\SayısalAnalizÖdev1\obj\Debug\netcoreapp3.1\SayısalAnalizÖdev1.AssemblyInfo.cs
+C:\Users\user\Desktop\okul\2-2\Sayısal Analiz\Ödev\Grafik Yöntem\18011706 Proje Dosyası\SayısalAnalizÖdev1\obj\Debug\netcoreapp3.1\SayısalAnalizÖdev1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\okul\2-2\Sayısal Analiz\Ödev\Grafik Yöntem\18011706 Proje Dosyası\SayısalAnalizÖdev1\obj\Debug\netcoreapp3.1\SayısalAnalizÖdev1.dll
+C:\Users\user\Desktop\okul\2-2\Sayısal Analiz\Ödev\Grafik Yöntem\18011706 Proje Dosyası\SayısalAnalizÖdev1\obj\Debug\netcoreapp3.1\SayısalAnalizÖdev1.pdb
+C:\Users\user\Desktop\okul\2-2\Sayısal Analiz\Ödev\Grafik Yöntem\18011706 Proje Dosyası\SayısalAnalizÖdev1\obj\Debug\netcoreapp3.1\SayısalAnalizÖdev1.genruntimeconfig.cache
